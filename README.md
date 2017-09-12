@@ -1,4 +1,6 @@
-#th]
+# 配置信息
+<pre><code>
+[path]
    file_path         = /tmp   //本地同步的目录,可以写多个
 [ftp]
    ftpfile_path     = /    //ftp服务器上的目录 
@@ -29,5 +31,7 @@
     WalkDir(sync_path, sync_type)
     WalkDir(sync_path_jpg, sync_type_jpg)
 </code></pre>
-* * * go_sync_ftp
-
+* * *
+  ![go_sync_ftp](./jpg/1.png)
+  ![go_sync_ftp](./jpg/2.png)
+ 
