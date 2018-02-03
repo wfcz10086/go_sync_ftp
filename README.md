@@ -4,10 +4,10 @@
    file_path         = /tmp   //本地同步的目录,可以写多个
 [ftp]
    ftpfile_path     = /    //ftp服务器上的目录 
-   ftp_server_ip    = 134.224.130.196  //服务器ip
+   ftp_server_ip    = xxxx  //服务器ip
    ftp_server_port  = 21                     
-   ftp_server_name  = rz_zj      //账号
-   ftp_server_pwd   = rz_zj@91      //密码         
+   ftp_server_name  = xxx      //账号
+   ftp_server_pwd   = xxx      //密码         
    local_ip         = 192.168.56.1    //这个留着以后用 
    local_port       = 80             //这个留着以后用 
    comm_way         = udp             //ftp协议    
